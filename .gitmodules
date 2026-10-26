@@ -1,0 +1,16 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/wakamebu/ai-bot-mock-backend.git
+	branch = main
+[submodule "backend-dify"]
+	path = backend-dify
+	url = https://github.com/wakamebu/ai-bot-mock-backend.git
+	branch = dify-develop
+[submodule "backend-openai"]
+	path = backend-openai
+	url = https://github.com/wakamebu/ai-bot-mock-backend.git
+	branch = openai-develop
+[submodule "front-mock"]
+	path = front-mock
+	url = https://github.com/wakamebu/ai-bot-mock-front.git
+	branch = main
